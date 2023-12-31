@@ -9,4 +9,4 @@
   <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/458fa227-ca33-4d0b-8f14-b807e6dc54b3"><br>
     
   <a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/04%20-%20Accordion">04 - Accordion</a><br>
-  <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/01d8fca2-65ed-46bf-8cac-c39f8a21473d"><br>
+  <img src=""><br>
