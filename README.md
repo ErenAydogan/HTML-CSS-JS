@@ -6,9 +6,7 @@
 
   
   <a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/03%20-%20Sign%20In%20%26%20Sign%20Up%20Form">03 - Sign In & Sign Up Form</a><br>
-  <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/a2007234-36a8-4c52-84ee-e6588377aa0f"><br>
-  <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/fdc43740-1071-4030-9556-09bda55b26f1"><br>
-  
+  <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/458fa227-ca33-4d0b-8f14-b807e6dc54b3"><br>
+    
   <a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/04%20-%20Accordion">04 - Accordion</a><br>
-  <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/ab8e51b5-1e7c-462f-99fa-dacf79e7334c"><br>
-
+  <img src="https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/01d8fca2-65ed-46bf-8cac-c39f8a21473d"><br>
