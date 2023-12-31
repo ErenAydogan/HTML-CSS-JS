@@ -1,6 +1,6 @@
 <center>
-<a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/01%20-%20Login%20Form">01 - Login Form</a><br>
-![image](https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/6667cceb-cf65-475c-af77-b3766fd4089e)
+  <a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/01%20-%20Login%20Form">01 - Login Form</a><br>
+  ![image](https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/6667cceb-cf65-475c-af77-b3766fd4089e)
 
 <a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/02%20-%20Login%20-%20Registration%20Form">02 - Login - Registration Form</a><br>
 ![image](https://github.com/ErenAydogan/HTML-CSS-JS/assets/103932990/187795bb-7ab2-47b6-8163-9c90d9d8c821)
