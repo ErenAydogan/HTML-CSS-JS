@@ -86,7 +86,7 @@ button:hover {
     height: 460px;
     background-color: #eee;
     border-radius: 60% / 10%;
-    transform: translateY(-165px);
+    transform: translateY(-200px);
     transition: .8s ease-in-out;
 }
 
