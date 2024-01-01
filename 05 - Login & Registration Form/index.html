@@ -1,0 +1,53 @@
+<!--
+    Project Owner:
+    https://youtu.be/LTPGyaEyTI4?si=51Yq45C3pAhbx2qb
+
+    I followed the owner's steps to enhance my CSS skills.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>Sign In & Sign Up</title>
+</head>
+<body>
+    <div class="container">
+        <div class="form-box">
+            <div class="select-field">
+                <button type="button" id="signupBtn">
+                    Sign Up
+                </button>
+                <button type="button" class="disable" id="signinBtn">
+                    Sign In
+                </button>
+            </div>
+            <h1 id="title">Sign Up</h1>
+            <form action="">
+                <div class="input-group" >
+                    <div class="input-field" id="nameField">
+                        <i class="fa-solid fa-user"></i>
+                        <input type="text" placeholder="Username">
+                    </div>
+                    <div class="input-field">
+                        <i class="fa-solid fa-envelope"></i>
+                        <input type="email" placeholder="Mail Address">
+                    </div>
+                    <div class="input-field">
+                        <i class="fa-solid fa-lock"></i>
+                        <input type="password" placeholder="Password">
+                    </div>
+                    <p>Lost password <a href="#">Click Here!</a></p>
+                </div>
+                <button class="btn">
+                    Submit
+                </button>
+            </form>
+        </div>
+    </div>
+    <script src="main.js"></script>    
+</body>
+</html>
