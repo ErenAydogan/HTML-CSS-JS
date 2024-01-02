@@ -6,3 +6,7 @@
 <img src="images/03.gif"><br>
 <a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/04%20-%20Accordion">04 - Accordion</a><br>
 <img src="images/04.gif"><br>
+<a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/05%20-%20Login%20%26%20Registration%20Form">05 - Login & Registration Form</a><br>
+<img src="images/05.gif"><br>
+<a href="https://github.com/ErenAydogan/HTML-CSS-JS/tree/main/06%20-%20Login%20%26%20Registration%20Form">06 - Login & Registration Form</a><br>
+<img src="images/06.gif"><br>
